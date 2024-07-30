@@ -1,6 +1,6 @@
 # Prediction and Analysis of Flight Delay
+This repository contains the code and resources for the project "Prediction of Flight Delay" conducted by Group 3 for the WQD7003: Data Analytics course at the University of Malaya. The relevant Python Notebook is given by `WQD7003_Flight_Delay_Prediction.ipynb`
 
-## Overview
 This project aims to predict and analyze flight delays using data from the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics and weather data from the National Weather Service. By understanding the contributing factors and predicting delays, we aim to improve air travel reliability and efficiency.
 
 ## Team Members
@@ -23,7 +23,7 @@ The dataset used in this project is titled “2015 Flight Delays and Cancellatio
 - `airports.csv`: Contains airport details including IATA codes, names, and geographical coordinates.
 - `flights.csv`: Contains flight summary information including delays, cancellations, and other relevant details.
 
-Additionally, weather data for DFW was obtained from the National Weather Service.
+Additionally, the folder `2015_DFW_Weather` contains weather data at DFW in the year of 2015, obtained from the National Weather Service.
 
 ## Methodology
 We used the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology, which includes the following phases:
