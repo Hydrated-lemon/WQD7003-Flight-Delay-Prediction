@@ -18,7 +18,7 @@ Flight delays disrupt schedules, cause stress and anxiety, and lead to economic 
 2. Build a regression model to predict departure delays for flights departing from Dallas/Fort Worth International Airport (DFW), incorporating weather data.
 
 ## Dataset
-The dataset used in this project is titled “2015 Flight Delays and Cancellations,” available from Kaggle and provided by the U.S. DOT's Bureau of Transportation Statistics. It includes:
+The dataset used in this project is titled “2015 Flight Delays and Cancellations,” available from Kaggle and provided by the U.S. DOT's Bureau of Transportation Statistics at https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv. It includes:
 - `airlines.csv`: Contains IATA airline codes and names.
 - `airports.csv`: Contains airport details including IATA codes, names, and geographical coordinates.
 - `flights.csv`: Contains flight summary information including delays, cancellations, and other relevant details.
