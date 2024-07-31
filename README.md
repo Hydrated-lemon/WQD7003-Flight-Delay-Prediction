@@ -23,7 +23,7 @@ The dataset used in this project is titled “2015 Flight Delays and Cancellatio
 - `airports.csv`: Contains airport details including IATA codes, names, and geographical coordinates.
 - `flights.csv`: Contains flight summary information including delays, cancellations, and other relevant details.
 
-Additionally, the folder `2015_DFW_Weather` contains weather data at DFW in the year of 2015, obtained from the National Weather Service.
+Additionally, the folder `2015_DFW_Weather.zip` contains weather data at DFW in the year of 2015, obtained from the National Weather Service.
 
 ## Methodology
 We used the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology, which includes the following phases:
