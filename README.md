@@ -3,7 +3,7 @@ This repository contains the code and resources for the project "Prediction of F
 
 This project aims to predict and analyze flight delays using data from the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics and weather data from the National Weather Service. By understanding the contributing factors and predicting delays, we aim to improve air travel reliability and efficiency.
 
-## Team Members
+## Contributors
 - Lai Yuen Seng (22076493)
 - Nur Iffatull Najihah Anuar (17155569)
 - Tan Ai Fen (22115538)
